@@ -11,6 +11,6 @@
 
 [Javascript]: https://www.javascript.com/
 
-- Node [<img align="left" alt="javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Javascript]
+- Node [<img align="left" alt="Node" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 
 [Node]: https://nodejs.org/en/
