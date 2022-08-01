@@ -16,6 +16,8 @@
 [Node]: https://nodejs.org/en/
 
 - React [<img align="left" alt="react" width="22px"
-src="[![image](https://user-images.githubusercontent.com/66845300/182235026-d78fdc96-df42-4a3c-8bda-d7fea7cf6442.png)][React]
+src="![image](https://user-images.githubusercontent.com/66845300/182236109-b68ca11b-87f3-4a62-a492-9c3f31df3d2a.png)" />][React]
 
 [React]: https://reactjs.org/
+
+  
