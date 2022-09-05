@@ -7,7 +7,7 @@
 
 ## Aprendiendo: 
 
-[![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,ExpressJS-Dark)](https://skills.thijs.gg)
   
 ## Habilidades en:
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs)](https://skills.thijs.gg)
