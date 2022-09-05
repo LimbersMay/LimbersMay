@@ -9,3 +9,5 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react)](https://skills.thijs.gg)
   
+## Habilidades en:
+[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs)](https://skills.thijs.gg)
