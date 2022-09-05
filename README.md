@@ -11,9 +11,3 @@
   
 ## Habilidades en:
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,express,git,github)](https://skills.thijs.gg)
-
-## Frameworks
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,express)](https://skills.thijs.gg)
-
-## Herramientas
-[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
