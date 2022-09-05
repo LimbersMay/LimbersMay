@@ -10,4 +10,4 @@
 [![My Skills](https://skills.thijs.gg/icons?i=ts,react,nestjs)](https://skills.thijs.gg)
   
 ## Habilidades en:
-[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,express)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,express,git,github)](https://skills.thijs.gg)
