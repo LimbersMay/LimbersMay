@@ -7,7 +7,7 @@
 
 ## Aprendiendo: 
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,docker,cs,dotnet,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=ts,docker,cs,dotnet,tailwind)](https://skillicons.dev)
   
 ## Habilidades en:
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,nodejs,express,mongodb,firebase,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,firebase,git,github)](https://skillicons.dev)
